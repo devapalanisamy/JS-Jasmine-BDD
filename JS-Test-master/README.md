@@ -33,7 +33,7 @@ You should see output:
 1 test, 0 assertions, 0 failures, 0 skipped
 
 
-5. Please implement the functions in src/dateUtil.js
+5. implement the functions in src/dateUtil.js
 ----------
 
 and
@@ -43,16 +43,7 @@ implement the tests in specs/dateUtilSpec.js
 Note to see if your tests pass, please type in "grunt unit"
 
 
-6. For any help unit tests please refer to
+6. help unit tests please refer to
 ----------
 
 http://jasmine.github.io/2.3/introduction.html
-
-and
-
-Feel free to use one of the famous javascript helper library for help with dates
-
-GOOD LUCK, please send me the dateUtilSpec.js and dateUtil.js when done
-
-
-
